@@ -51,12 +51,12 @@
   </tr>
   <tr>
     <td class="tg-btxf">30/09</td>
-    <td class="tg-btxf"><a href="" target="_blank" rel="noopener noreferrer">Modeling and Ranking Flaky Tests at Apple</a></td>
+    <td class="tg-btxf"><a href="https://arxiv.org/abs/1912.07322" target="_blank" rel="noopener noreferrer">RTj a Java Framework for Detecting and Refactoring Rotten Green Test Cases</a></td>
     <td class="tg-btxf"></td>
   </tr>
   <tr>
     <td class="tg-0pky">07/10</td>
-    <td class="tg-0pky"><a href="https://arxiv.org/abs/1912.07322" target="_blank" rel="noopener noreferrer">RTj a Java Framework for Detecting and Refactoring Rotten Green Test Cases</a></td>
+    <td class="tg-0pky"><a href="https://arxiv.org/abs/1907.13365" target="_blank" rel="noopener noreferrer">Comprehending Test Code: An Empirical Study</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
