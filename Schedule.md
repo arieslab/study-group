@@ -12,47 +12,47 @@
   <tr>
     <td class="tg-btxf">05/08</td>
     <td class="tg-btxf"><a href="https://zenodo.org/record/3744281" target="_blank" rel="noopener noreferrer">Investigating Severity Thresholds for Test Smells</a></td>
-    <td class="tg-btxf">Ivan Machado</td>
+    <td class="tg-btxf">Luana Martins</td>
   </tr>
   <tr>
     <td class="tg-0pky">12/08</td>
     <td class="tg-0pky"><a href="http://gustavopinto.org/lost+found/msr2020.pdf" target="_blank" rel="noopener noreferrer">What is the Vocabulary of Flaky Tests?</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">JP</td>
   </tr>
   <tr>
     <td class="tg-btxf">19/08</td>
     <td class="tg-btxf"><a href="https://hal.inria.fr/hal-02404040/document" target="_blank" rel="noopener noreferrer">Exposing Test Analysis Results with DrTests</a></td>
-    <td class="tg-btxf"></td>
+    <td class="tg-btxf">Heitor</td>
   </tr>
   <tr>
     <td class="tg-0pky">26/08</td>
     <td class="tg-0pky"><a href="https://arxiv.org/abs/1809.06991" target="_blank" rel="noopener noreferrer">Causal Testing: Understanding Defects Root Causes</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Nailton</td>
   </tr>
   <tr>
     <td class="tg-btxf">02/09</td>
     <td class="tg-btxf"><a href="https://www.sqrlab.ca/publications/icse2020-nier/" target="_blank" rel="noopener noreferrer">Automatically Predicting Bug Severity Early in the Development Process</a></td>
-    <td class="tg-btxf"></td>
+    <td class="tg-btxf">Railana</td>
   </tr>
   <tr>
     <td class="tg-0pky">09/09</td>
     <td class="tg-0pky"><a href="http://mir.cs.illinois.edu/winglam/publications/2020/LamETAL20FaTB.pdf" target="_blank" rel="noopener noreferrer">A Study on the Lifecycle of Flaky Tests</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">vinícius</td>
   </tr>
   <tr>
     <td class="tg-btxf">16/09</td>
     <td class="tg-btxf"><a href="https://valerio65.github.io/assets/pdf/terragni-icse-2020.pdf" target="_blank" rel="noopener noreferrer">A Container-Based Infrastructure for Fuzzy-Driven Root Causing of Flaky Tests</a></td>
-    <td class="tg-btxf"></td>
+    <td class="tg-btxf">Larissa</td>
   </tr>
   <tr>
     <td class="tg-0pky">23/09</td>
     <td class="tg-0pky"><a href="https://valerio65.github.io/assets/pdf/terragni-icpc-2020.pdf" target="_blank" rel="noopener noreferrer">Measuring Software Testability Modulo Test Quality</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Dhennya</td>
   </tr>
   <tr>
     <td class="tg-btxf">30/09</td>
     <td class="tg-btxf"><a href="https://arxiv.org/abs/1912.07322" target="_blank" rel="noopener noreferrer">RTj a Java Framework for Detecting and Refactoring Rotten Green Test Cases</a></td>
-    <td class="tg-btxf"></td>
+    <td class="tg-btxf">Daniele</td>
   </tr>
   <tr>
     <td class="tg-0pky">07/10</td>
