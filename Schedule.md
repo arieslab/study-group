@@ -12,7 +12,7 @@
   <tr>
     <td class="tg-btxf">05/08</td>
     <td class="tg-btxf"><a href="https://zenodo.org/record/3744281" target="_blank" rel="noopener noreferrer">Investigating Severity Thresholds for Test Smells</a></td>
-    <td class="tg-btxf">Luana Martins</td>
+    <td class="tg-btxf">Luana</td>
   </tr>
   <tr>
     <td class="tg-0pky">12/08</td>
@@ -37,7 +37,7 @@
   <tr>
     <td class="tg-0pky">09/09</td>
     <td class="tg-0pky"><a href="http://mir.cs.illinois.edu/winglam/publications/2020/LamETAL20FaTB.pdf" target="_blank" rel="noopener noreferrer">A Study on the Lifecycle of Flaky Tests</a></td>
-    <td class="tg-0pky">vinícius</td>
+    <td class="tg-0pky">Vinícius</td>
   </tr>
   <tr>
     <td class="tg-btxf">16/09</td>
@@ -56,8 +56,8 @@
   </tr>
   <tr>
     <td class="tg-0pky">07/10</td>
-    <td class="tg-0pky"><a href="https://arxiv.org/abs/1907.13365" target="_blank" rel="noopener noreferrer">Comprehending Test Code: An Empirical Study</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href= "https://rmod.inria.fr/archives/papers/Delp19a-RottenGreenTests-ICSE2019.pdf" target="_blank" rel="noopener noreferrer">Rotten Green Tests</a></td>
+    <td class="tg-0pky">Daniela</td>
   </tr>
   <tr>
     <td class="tg-btxf">14/10</td>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td class="tg-0pky">04/11</td>
-    <td class="tg-0pky"><a href="https://rmod.inria.fr/archives/papers/Delp19a-RottenGreenTests-ICSE2019.pdf" target="_blank" rel="noopener noreferrer">Rotten Green Tests</a></td>
+    <td class="tg-0pky"><a href="https://arxiv.org/abs/1907.13365" target="_blank" rel="noopener noreferrer">Comprehending Test Code: An Empirical Study</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
