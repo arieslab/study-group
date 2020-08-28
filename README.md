@@ -18,8 +18,13 @@ Davide Spadini, Martin Schvarcbacher, Ana Maria Oprescu, Magiel Bruntink, and Al
 ### Flaky Tests
 Gustavo Pinto, Breno Miranda, Supun Dissanayake, Marcelo d'Amorim, Christoph Treude, Antonia Bertolino. "<a href="http://gustavopinto.org/lost+found/msr2020.pdf">What is the Vocabulary of Flaky Tests? </a>". In the Proceedings of the 17th International Conference on Mining Software Repositories, 2020. 
 
+[![](https://img.shields.io/badge/-Text%20Classification-d30e95)](https://github.com/arieslab/study-group/labels/Text%20classification) [![](https://img.shields.io/badge/-Code%20Review-d0f461)](https://github.com/arieslab/study-group/labels/Code%20Review) [![](https://img.shields.io/badge/-Machine%20Learning-a357d6)](https://github.com/arieslab/study-group/labels/Machine%20Learning) 
 
-> Text
+> The paper investigates whether it is possible to build a vocabulary of flaky tests to help identify flaky tests when developers are still writing test code. The motivation is that, today, to find out if a test is flaky, we need to run it and, possibly, we will not identify a flaky test in its first run due to its non-deterministic characteristic.
+
+> 24 projects from DeFlaker banchmark were analyzed. The projects were used to obtain flaky and non-flaky tests. For this, the authors carried out 100 executions of the 64k test cases of the studied projects. The files were processed and identifiers were extracted using a tokenization strategy. The number of lines and the amount of Java keywords associated with the tests were extracted too. These data were used as input for five machine learning algorithms of which Random Forest had the best accuracy. Words such as “Job”, “Table" and "Action" had a strong connection with flaky tests, and are words that are also associated with asynchronous calls. An important detail is that 55% of flaky tests failed only once in 100 runs, showing how difficult it can be to identify flaky tests, thus highlighting the relevance of working on ways to identify them more quickly.
+
+> For future goals the authors are planning to create tools that help developers to identify flaky tests, initially using the results obtained in this work. Unfortunately this work is based on a specific software context, and it can be difficult to replicate these ideas in another context. For example, another programming language.
 
 Jonathan Bell, Owolabi  Legunsen, Michael  Hilton, Lamyaa  Eloussi, Tifany Yung, Darko Marinov. "<a href="https://dl.acm.org/doi/10.1145/3180155.3180164"> DeFlaker: automatically detecting flaky tests </a>". In the Proceedings of ICSE’ 18: 40th International Conference on Software Engineering, 2018.
 
