@@ -62,22 +62,22 @@
   <tr>
     <td class="tg-btxf">14/10</td>
     <td class="tg-btxf"><a href= "https://www.sqrlab.ca/publications/icse2020-nier/" target="_blank" rel="noopener noreferrer">Automatically Predicting Bug Severity Early in the Development Process</a></td>
-    <td class="tg-btxf"></td>
+    <td class="tg-btxf">JP</td>
   </tr>
   <tr>
     <td class="tg-0pky">21/10</td>
     <td class="tg-0pky"><a href= "https://valerio65.github.io/assets/pdf/terragni-icpc-2020.pdf" target="_blank" rel="noopener noreferrer">Measuring Software Testability Modulo Test Quality</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Daniel</td>
   </tr>
   <tr>
     <td class="tg-btxf">28/10</td>
     <td class="tg-btxf"><a href="https://arxiv.org/abs/1907.13365" target="_blank" rel="noopener noreferrer">Comprehending Test Code: An Empirical Study</a></td>
-    <td class="tg-btxf"></td>
+    <td class="tg-btxf">Jonathan</td>
   </tr>
   <tr>
     <td class="tg-0pky">04/11</td>
     <td class="tg-0pky"><a href="http://soft.vub.ac.be/Publications/2019/vub-soft-tr-19-06.pdf" target="_blank" rel="noopener noreferrer">Assessing Diffusion and Perception of Test Smells in Scala Projects</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Vinícius</td>
   </tr>
   <tr>
     <td class="tg-btxf">11/11</td> 
