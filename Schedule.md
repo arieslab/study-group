@@ -61,12 +61,12 @@
   </tr>
   <tr>
     <td class="tg-btxf">14/10</td>
-    <td class="tg-btxf"><a href= "" target="_blank" rel="noopener noreferrer">Revisões das apresentações dos artigos dos membros</a></td>
+    <td class="tg-btxf">Revisão das apresentações dos artigos dos membros</td>
     <td class="tg-btxf"></td>
   </tr>
   <tr>
     <td class="tg-0pky">21/10</td>
-    <td class="tg-0pky"><a href= "" target="_blank" rel="noopener noreferrer">CBSOFT 2020</a></td>
+    <td class="tg-0pky"><a href= "https://cbsoft2020.imd.ufrn.br/" target="_blank" rel="noopener noreferrer">CBSOFT 2020</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
