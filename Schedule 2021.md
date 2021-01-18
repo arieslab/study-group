@@ -1,0 +1,168 @@
+## Schedule 2021
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Date</th>
+<th title="Field #2">Title</th>
+<th title="Field #3">Moderator</th>
+</tr></thead>
+<tbody><tr>
+<td>22/01</td>
+<td><a href="https://link.springer.com/chapter/10.1007/978-3-030-24305-0_34" target="_blank" rel="noopener noreferrer"> Towards an Extensible Architecture for Refactoring Test Code</a></td>
+<td>Railana</td>
+</tr>
+<tr>
+<td>29/01</td>
+<td><a href="https://robertoverdecchia.github.io/papers/MSR_2020.pdf" target="_blank" rel="noopener noreferrer">JTeC: A Large Collection of Java Test Classes for Test Code Analysis and Processing</a></td>
+<td>Jonathan</td>
+</tr>
+<tr>
+<td>05/02</td>
+<td><a href="https://dl.acm.org/doi/abs/10.1145/3422392.3422461" target="_blank" rel="noopener noreferrer">Toward a Metamodel Quality Evaluation Framework: Requirements, Model, Measures, and Process</a></td>
+<td>Luana</td>
+</tr>
+<tr>
+<td>12/02</td>
+<td><a href="https://dl.acm.org/doi/abs/10.1145/3377816.3381738" target="_blank" rel="noopener noreferrer">Automatically Predicting Bug Severity Early in the Development Process</a></td>
+<td>JP</td>
+</tr>
+<tr>
+<td>19/02</td>
+<td><a href="https://valerio65.github.io/assets/pdf/terragni-icpc-2020.pdf" target="_blank" rel="noopener noreferrer">Measuring Software Testability Modulo Test Quality</a></td>
+<td>Daniel</td>
+</tr>
+<tr>
+<td>26/02</td>
+<td><a href="https://ieeexplore.ieee.org/document/8816745" target="_blank" rel="noopener noreferrer">Assessing Diffusion and Perception of Test Smells in Scala Projects</a></td>
+<td>Vinícius</td>
+</tr>
+<tr>
+<td>05/03</td>
+<td><a href="https://arxiv.org/abs/1907.13365" target="_blank" rel="noopener noreferrer">Comprehending Test Code: An Empirical Study</a></td>
+<td>Daniele</td>
+</tr>
+<tr>
+<td>12/03</td>
+<td><a href="" target="_blank" rel="noopener noreferrer">Practitioners’ Testimonials about Software Testing</a></td>
+<td>Dhennya</td>
+</tr>
+<tr>
+<td>19/03</td>
+<td><a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/40/Automatic-Unit-Test-Generation-for-Machine-Learning-Libraries-How-Far-Are-We-" target="_blank" rel="noopener noreferrer">Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?</a></td>
+<td>Larissa</td>
+</tr>
+<tr>
+<td>26/03</td>
+<td><a href="https://ieeexplore.ieee.org/document/9240691" target="_blank" rel="noopener noreferrer">Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</a></td>
+<td>Daniela</td>
+</tr>
+<tr>
+<td>02/04</td>
+<td><a href="" target="_blank" rel="noopener noreferrer">An Empirical Study on the Evolution of Test Smell</a></td>
+<td>Heitor</td>
+</tr>
+<tr>
+<td>09/04</td>
+<td><a href="https://dl.acm.org/doi/10.1145/3425174.3425212" target="_blank" rel="noopener noreferrer">Refactoring Test Smells  A Perspective from Open-Source</a></td>
+<td>Nailton</td>
+</tr>
+<tr>
+<td>16/04</td>
+<td><a href="https://dl.acm.org/doi/10.1145/3422392.3422407" target="_blank" rel="noopener noreferrer">A Large Scale Study On the Effectiveness of Manual and Automatic Unit Test Generation</a></td>
+<td>Adriana</td>
+</tr>
+<tr>
+<td>23/04</td>
+<td><a href="https://ieeexplore.ieee.org/abstract/document/8847402" target="_blank" rel="noopener noreferrer">An Exploratory Study of the Relationship Between Software Test Smells and Fault-Proneness</a></td>
+<td>Railana</td>
+</tr>
+<tr>
+<td>30/04</td>
+<td><a href="https://sback.it/publications/icsme2018a.pdf" target="_blank" rel="noopener noreferrer">On The Relation of Test Smells to Software Code Quality</a></td>
+<td>Jonathan</td>
+</tr>
+<tr>
+<td>07/05</td>
+<td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060 " target="_blank" rel="noopener noreferrer">Smells in software test code: A survey of knowledge in industry and academia</a></td>
+<td>Luana</td>
+</tr>
+<tr>
+<td>14/05</td>
+<td><a href="https://ieeexplore.ieee.org/document/8530039" target="_blank" rel="noopener noreferrer">Automatic Test Smell Detection using Information Retrieval Techniques</a></td>
+<td>JP</td>
+</tr>
+<tr>
+<td>21/05</td>
+<td>ICSE </td>
+<td> </td>
+</tr>
+<tr>
+<td>28/05</td>
+<td>ICSE - Main conference</td>
+<td> </td>
+</tr>
+<tr>
+<td>04/06</td>
+<td><a href="https://ieeexplore.ieee.org/document/7890581" target="_blank" rel="noopener noreferrer">An empirical study into the relationship between class features and test smells</a></td>
+<td>Daniel</td>
+</tr>
+<tr>
+<td>11/06</td>
+<td><a href="https://dl.acm.org/doi/10.1145/2970276.2970340" target="_blank" rel="noopener noreferrer">An Empirical Investigation into the Nature of Test Smells</a></td>
+<td>Vinícius</td>
+</tr>
+<tr>
+<td>18/6</td>
+<td><a href="" target="_blank" rel="noopener noreferrer">Understanding and Facilitating the Co-Evolution of Production and Test Code</a></td>
+<td>Daniele</td>
+</tr>
+<tr>
+<td>25/6</td>
+<td><a href="https://www.researchgate.net/publication/348187542_On_the_Impact_of_Flaky_Tests_in_Automated_Program_Repair" target="_blank" rel="noopener noreferrer">On the Impact of Flaky Tests in Automated Program Repair</a></td>
+<td>Dhennya</td>
+</tr>
+<tr>
+<td>2/7</td>
+<td><a href="http://mir.cs.illinois.edu/~qluo2/fse14LuoHEM.pdf" target="_blank" rel="noopener noreferrer">An Empirical Analysis of UI-based Flaky Tests</a></td>
+<td>Larissa</td>
+</tr>
+<tr>
+<td>9/7</td>
+<td><a href="https://www.researchgate.net/publication/348187542_On_the_Impact_of_Flaky_Tests_in_Automated_Program_Repair" target="_blank" rel="noopener noreferrer">On the Impact of Flaky Tests in Automated Program Repair</a></td>
+<td>Daniela</td>
+</tr>
+<tr>
+<td>16/7</td>
+<td><a href="https://dl.acm.org/doi/10.1145/3387904.3389296" target="_blank" rel="noopener noreferrer">Just-In-Time Test Smell Detection and Refactoring: The DARTS Project</a></td>
+<td>Heitor</td>
+</tr>
+<tr>
+<td>23/7</td>
+<td><a href="https://arxiv.org/abs/2005.13474" target="_blank" rel="noopener noreferrer">Toward a catalog of software quality metrics for infrastructure code</a></td>
+<td>Nailton</td>
+</tr>
+<tr>
+<td>30/07</td>
+<td><a href="https://arxiv.org/abs/2009.11685" target="_blank" rel="noopener noreferrer">On the Relationship between Refactoring Actions and Bugs: A Differentiated Replication</a></td>
+<td>Adriana</td>
+</tr>
+<tr>
+<td>06/08</td>
+<td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121219301487" target="_blank" rel="noopener noreferrer">Scented since the beginning: On the diffuseness of test smells in automatically generated test code</a></td>
+<td>Railana</td>
+</tr>
+<tr>
+<td>13/08</td>
+<td><a href="https://dl.acm.org/doi/10.5555/3370272.3370293" target="_blank" rel="noopener noreferrer">On the Distribution of Test Smells in Open Source Android Applications: An Exploratory Study</a></td>
+<td>Jonathan</td>
+</tr>
+<tr>
+<td>20/8</td>
+<td><a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85076474222&origin=inward&txGid=a2081ccb1aae4e027c80f8dcde439a40" target="_blank" rel="noopener noreferrer">Investigating Developer Perception on Test Smells Using Better Code Hub - Work in Progress </a></td>
+<td>Luana</td>
+</tr>
+<tr>
+<td>27/8</td>
+<td><a href="https://dl.acm.org/doi/10.1109/TSE.2007.70745" target="_blank" rel="noopener noreferrer">On the Detection of Test Smells: A Metrics-Based Approach for General Fixture and Eager Test</a></td>
+<td>JP</td>
+</tr>
+</tbody></table>
