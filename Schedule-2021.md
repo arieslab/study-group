@@ -7,8 +7,8 @@
 </tr></thead>
 <tbody><tr>
 <td>22/01</td>
-<td><a href="https://link.springer.com/chapter/10.1007/978-3-030-24305-0_34" target="_blank" rel="noopener noreferrer"> Towards an Extensible Architecture for Refactoring Test Code</a></td>
-<td>Railana</td>
+<td><a href="https://dl.acm.org/doi/abs/10.1145/3422392.3422461" target="_blank" rel="noopener noreferrer">Toward a Metamodel Quality Evaluation Framework: Requirements, Model, Measures, and Process</a></td>
+<td>Luana</td>
 </tr>
 <tr>
 <td>29/01</td>
@@ -17,8 +17,8 @@
 </tr>
 <tr>
 <td>05/02</td>
-<td><a href="https://dl.acm.org/doi/abs/10.1145/3422392.3422461" target="_blank" rel="noopener noreferrer">Toward a Metamodel Quality Evaluation Framework: Requirements, Model, Measures, and Process</a></td>
-<td>Luana</td>
+<td><a href="https://link.springer.com/chapter/10.1007/978-3-030-24305-0_34" target="_blank" rel="noopener noreferrer"> Towards an Extensible Architecture for Refactoring Test Code</a></td>
+<td>Railana</td>
 </tr>
 <tr>
 <td>12/02</td>
