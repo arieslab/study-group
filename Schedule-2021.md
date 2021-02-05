@@ -78,7 +78,7 @@
 <tr>
 <td>30/04</td>
 <td><a href="https://sback.it/publications/icsme2018a.pdf" target="_blank" rel="noopener noreferrer">On The Relation of Test Smells to Software Code Quality</a></td>
-<td>Jonathan</td>
+<td>Anderson</td>
 </tr>
 <tr>
 <td>07/05</td>
@@ -153,7 +153,7 @@
 <tr>
 <td>13/08</td>
 <td><a href="https://dl.acm.org/doi/10.5555/3370272.3370293" target="_blank" rel="noopener noreferrer">On the Distribution of Test Smells in Open Source Android Applications: An Exploratory Study</a></td>
-<td>Jonathan</td>
+<td>Anderson</td>
 </tr>
 <tr>
 <td>20/08</td>
