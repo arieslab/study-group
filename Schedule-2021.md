@@ -18,7 +18,7 @@
 <td>05/02</td>
 <td><a href="https://dl.acm.org/doi/10.1145/3428270" target="_blank" rel="noopener noreferrer">A Large-Scale Longitudinal Study of Flaky Tests
 </a></td>
-<td>Jonathan</td>
+<td>JP</td>
 </tr>
 <tr>
 <td>12/02</td>
