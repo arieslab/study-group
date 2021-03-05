@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td>12/03</td>
-<td><a href="" target="_blank" rel="noopener noreferrer">Practitioners’ Testimonials about Software Testing</a></td>
+<td><a href="" target="_blank" rel="noopener noreferrer">An Empirical Study on the Evolution of Test Smell </a></td>
 <td>Dhennya</td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td>02/03</td>
-<td><a href="" target="_blank" rel="noopener noreferrer">An Empirical Study on the Evolution of Test Smell</a></td>
+<td><a href="" target="_blank" rel="noopener noreferrer">Practitioners’ Testimonials about Software Testing </a></td>
 <td>Heitor</td>
 </tr>
 <tr>
