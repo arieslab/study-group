@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td>12/03</td>
-<td><a href="" target="_blank" rel="noopener noreferrer">An Empirical Study on the Evolution of Test Smell </a></td>
+<td><a href="https://www.researchgate.net/publication/348187542_On_the_Impact_of_Flaky_Tests_in_Automated_Program_Repair" target="_blank" rel="noopener noreferrer">On the Impact of Flaky Tests in Automated Program Repair</a></td>
 <td>Dhennya</td>
 </tr>
 <tr>
