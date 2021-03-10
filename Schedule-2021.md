@@ -42,8 +42,7 @@
 </tr>
 <tr>
 <td>12/03</td>
-<td><a href=An Empirical Study on the Evolution of Test Smell
-</a></td>
+<td><a href=An Empirical Study on the Evolution of Test Smell</a></td>
 <td>Dhennya</td>
 </tr>
 <tr>
