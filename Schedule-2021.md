@@ -42,6 +42,7 @@
 </tr>
 <tr>
 <td>12/03</td>
+<td><a href="https://ieeexplore.ieee.org/abstract/document/9270304" target="_blank" rel="noopener noreferrer">An Empirical Study on the Evolution of Test Smell</a></td>
 <td><An Empirical Study on the Evolution of Test Smell</td>
 <td>Dhennya</td>
 </tr>
