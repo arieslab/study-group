@@ -57,10 +57,9 @@
 </tr>
 <tr>
 <td>02/03</td>
-
+<td><a href="https://ieeexplore.ieee.org/document/8530039" target="_blank" rel="noopener noreferrer">Automatic test smell detection using information retrieval techniques</a></td>
 <td>Heitor</td>
 </tr>
-<td><a href="https://ieeexplore.ieee.org/document/8530039" target="_blank" rel="noopener noreferrer">Automatic test smell detection using information retrieval techniques</a></td>
 <tr>
 <td>09/04</td>
 <td><a href="https://ieeexplore.ieee.org/document/9240691" target="_blank" rel="noopener noreferrer">Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</a></td>
