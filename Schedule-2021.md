@@ -42,27 +42,28 @@
 </tr>
 <tr>
 <td>12/03</td>
-<td><a href="https://ieeexplore.ieee.org/document/8847402/similar#similar">An exploratory study of the relationship between software test smells and fault-proneness</a></td>
+<td><a href="" target="_blank" rel="noopener noreferrer">Practitioners’ Testimonials about Software Testing</a></td>
 <td>Dhennya</td>
 </tr>
 <tr>
 <td>19/03</td>
-<td><a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/40/Automatic-Unit-Test-Generation-for-Machine-Learning-Libraries-How-Far-Are-We-" target="_blank" rel="noopener noreferrer">Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?</a></td>
+<td><a href="https://ieeexplore.ieee.org/document/8847402/similar#similar">An exploratory study of the relationship between software test smells and fault-proneness</a></td>
 <td>Larissa</td>
 </tr>
 <tr>
 <td>26/03</td>
-<td><a href="https://ieeexplore.ieee.org/document/9240691" target="_blank" rel="noopener noreferrer">Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</a></td>
+<td><a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/40/Automatic-Unit-Test-Generation-for-Machine-Learning-Libraries-How-Far-Are-We-" target="_blank" rel="noopener noreferrer">Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?</a></td>
 <td>Daniela</td>
 </tr>
 <tr>
 <td>02/03</td>
-<td><a href="" target="_blank" rel="noopener noreferrer">Practitioners’ Testimonials about Software Testing </a></td>
+
 <td>Heitor</td>
 </tr>
+<td><a href="https://ieeexplore.ieee.org/document/8530039" target="_blank" rel="noopener noreferrer">Automatic test smell detection using information retrieval techniques</a></td>
 <tr>
 <td>09/04</td>
-<td><a href="https://dl.acm.org/doi/10.1145/3425174.3425212" target="_blank" rel="noopener noreferrer">Refactoring Test Smells  A Perspective from Open-Source</a></td>
+<td><a href="https://ieeexplore.ieee.org/document/9240691" target="_blank" rel="noopener noreferrer">Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</a></td>
 <td>Nailton</td>
 </tr>
 <tr>
@@ -72,7 +73,7 @@
 </tr>
 <tr>
 <td>23/04</td>
-<td><a href="https://ieeexplore.ieee.org/abstract/document/8847402" target="_blank" rel="noopener noreferrer">An Exploratory Study of the Relationship Between Software Test Smells and Fault-Proneness</a></td>
+<td><a href="https://dl.acm.org/doi/10.1145/3425174.3425212" target="_blank" rel="noopener noreferrer">Refactoring Test Smells  A Perspective from Open-Source</a></td>
 <td>Railana</td>
 </tr>
 <tr>
