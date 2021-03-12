@@ -42,53 +42,53 @@
 </tr>
 <tr>
 <td>12/03</td>
-<td><a href="" target="_blank" rel="noopener noreferrer">Practitioners’ Testimonials about Software Testing</a></td>
-<td>Dhennya</td>
+<td><a href="" target="_blank" rel="noopener noreferrer"> -- </a></td>
+<td>--</td>
 </tr>
 <tr>
 <td>19/03</td>
+<td><a href="" target="_blank" rel="noopener noreferrer">Practitioners’ Testimonials about Software Testing</a></td>
+<td>Dhennya ou subir nomes?</td>
+</tr>
+<tr>
+<td>26/03</td>
 <td><a href="https://ieeexplore.ieee.org/document/8847402/similar#similar">An exploratory study of the relationship between software test smells and fault-proneness</a></td>
 <td>Larissa</td>
 </tr>
 <tr>
-<td>26/03</td>
+<td>02/03</td>
 <td><a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/40/Automatic-Unit-Test-Generation-for-Machine-Learning-Libraries-How-Far-Are-We-" target="_blank" rel="noopener noreferrer">Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?</a></td>
 <td>Daniela</td>
 </tr>
 <tr>
-<td>02/03</td>
+<td>09/04</td>
 <td><a href="https://ieeexplore.ieee.org/document/8530039" target="_blank" rel="noopener noreferrer">Automatic test smell detection using information retrieval techniques</a></td>
 <td>Heitor</td>
 </tr>
 <tr>
-<td>09/04</td>
+<td>16/04</td>
 <td><a href="https://ieeexplore.ieee.org/document/9240691" target="_blank" rel="noopener noreferrer">Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities</a></td>
 <td>Nailton</td>
 </tr>
 <tr>
-<td>16/04</td>
+<td>23/04</td>
 <td><a href="https://dl.acm.org/doi/10.1145/3422392.3422407" target="_blank" rel="noopener noreferrer">A Large Scale Study On the Effectiveness of Manual and Automatic Unit Test Generation</a></td>
 <td>Adriana</td>
 </tr>
 <tr>
-<td>23/04</td>
+<td>30/04</td>
 <td><a href="https://dl.acm.org/doi/10.1145/3425174.3425212" target="_blank" rel="noopener noreferrer">Refactoring Test Smells  A Perspective from Open-Source</a></td>
 <td>Railana</td>
 </tr>
 <tr>
-<td>30/04</td>
+<td>07/05</td>
 <td><a href="https://sback.it/publications/icsme2018a.pdf" target="_blank" rel="noopener noreferrer">On The Relation of Test Smells to Software Code Quality</a></td>
 <td>Anderson</td>
 </tr>
 <tr>
-<td>07/05</td>
+<td>14/05</td>
 <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060 " target="_blank" rel="noopener noreferrer">Smells in software test code: A survey of knowledge in industry and academia</a></td>
 <td>Luana</td>
-</tr>
-<tr>
-<td>14/05</td>
-<td><a href="https://ieeexplore.ieee.org/document/8530039" target="_blank" rel="noopener noreferrer">Automatic Test Smell Detection using Information Retrieval Techniques</a></td>
-<td>JP</td>
 </tr>
 <td>21/05</td>
 <td>ICSE </td>
