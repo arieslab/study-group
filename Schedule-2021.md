@@ -48,7 +48,7 @@
 <tr>
 <td>19/03</td>
 <td><a href="" target="_blank" rel="noopener noreferrer">Practitioners’ Testimonials about Software Testing</a></td>
-<td>Dhennya ou subir nomes?</td>
+<td>Dhennya</td>
 </tr>
 <tr>
 <td>26/03</td>
