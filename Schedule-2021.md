@@ -185,7 +185,7 @@
 
 <tr>
 <td>08/10</td>
-<td><a>CBSOFT</a></td>
+<td>CBSOFT</td>
 <td></td>
 </tr>
 
