@@ -184,9 +184,9 @@
 </tr>
 
 <tr>
-<td>01/10</td>
-<td><a>CBSOFT2021</a></td>
-<td>Larissa</td>
+<td>08/10</td>
+<td><a>CBSOFT</a></td>
+<td></td>
 </tr>
 
 <tr>
