@@ -82,7 +82,7 @@
 </tr>
 <tr>
 <td>14/05</td>
-<td>Não houve reunião></td>
+<td>--</td>
 <td>-</td>
 </tr>
 <td>21/05</td>
