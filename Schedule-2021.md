@@ -193,6 +193,7 @@
 <td>22/10</td>
 <td><a href="https://www.semanticscholar.org/paper/Refactoring-test-code-Deursen-Moonen/a5b1308b13dd393176494e6ccd078533f943ce48?p2df" target="_blank" rel="noopener noreferrer">Refactoring test code</a></td>
 <td>Dhennya</td>
+</tr>
 <td>29/10</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/4299925?casa_token=NQ-vKVK67QkAAAAA:tlwtTU9VfxZ4dwbhWtzS5oIGFxtrqTpeb01v7cSrzVnV9uI0VxJi2zymLB_we91nr6qGOT7vzpYJ" target="_blank" rel="noopener noreferrer">Refactoring Test Code Safely</a></td>
 <td>Larissa</td>
