@@ -96,83 +96,82 @@
 </tr>
 <tr>
 <tr>
-<tr>
 <td>11/06</td>
 <td><a href="https://sback.it/publications/icsme2018a.pdf" target="_blank" rel="noopener noreferrer">On The Relation of Test Smells to Software Code Quality</a></td>
 <td>Luana</td>
 </tr>
+<tr>
 <td>18/06</td>
+<td>Workshop ARIES LAB</a></td>
+</tr>
+<tr>
+<td>25/06</td>
 <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060 " target="_blank" rel="noopener noreferrer">Smells in software test code: A survey of knowledge in industry and academia</a></td>
 <td>Daniel</td>
 </tr>
-<td>25/06</td>
+<td>02/07</td>
 <td><a href="https://ieeexplore.ieee.org/document/7890581" target="_blank" rel="noopener noreferrer">An empirical study into the relationship between class features and test smells</a></td>
 <td>Vinícius</td>
 </tr>
 <tr>
-<td>02/07</td>
+<td>09/07</td>
 <td><a href="https://dl.acm.org/doi/10.1145/2970276.2970340" target="_blank" rel="noopener noreferrer">An Empirical Investigation into the Nature of Test Smells</a></td>
 <td>Daniele</td>
 </tr>
 <tr>
-<td>09/07</td>
+<td>16/07</td>
 <td><a href="" target="_blank" rel="noopener noreferrer">Understanding and Facilitating the Co-Evolution of Production and Test Code</a></td>
 <td>Dhennya</td>
 </tr>
 <tr>
-<td>16/07</td>
+<td>23/07</td>
 <td><a href="https://www.researchgate.net/publication/348187542_On_the_Impact_of_Flaky_Tests_in_Automated_Program_Repair" target="_blank" rel="noopener noreferrer">On the Impact of Flaky Tests in Automated Program Repair</a></td>
 <td>Larissa</td>
 </tr>
 <tr>
-<td>23/07</td>
+<td>30/07</td>
 <td><a href="http://mir.cs.illinois.edu/~qluo2/fse14LuoHEM.pdf" target="_blank" rel="noopener noreferrer">An Empirical Analysis of UI-based Flaky Tests</a></td>
 <td>Daniela</td>
 </tr>
 <tr>
-<td>30/07</td>
+<td>06/08</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/9054798?casa_token=HA4D3J-cS_0AAAAA:EvDVsh9UcA781_cuSALa9k7T45bBpS0OXhcyftfoy-TvmjDSy5Icleq7zOv25sXT00Lz4L4IzcHr" target="_blank" rel="noopener noreferrer">Clone Detection in Test Code: An Empirical Evaluation</a></td>
 <td>Heitor</td>
 </tr>
 <tr>
-<td>06/08</td>
+<td>13/08</td>
 <td><a href="https://dl.acm.org/doi/10.1145/3387904.3389296" target="_blank" rel="noopener noreferrer">Just-In-Time Test Smell Detection and Refactoring: The DARTS Project</a></td>
 <td>Nailton</td>
 </tr>
 <tr>
-<td>13/08</td>
+<td>20/08</td>
 <td><a href="https://arxiv.org/abs/2005.13474" target="_blank" rel="noopener noreferrer">Toward a catalog of software quality metrics for infrastructure code</a></td>
 <td>Adriana</td>
 </tr>
 <tr>
-<td>20/08</td>
+<td>27/08</td>
 <td><a href="https://arxiv.org/abs/2009.11685" target="_blank" rel="noopener noreferrer">On the Relationship between Refactoring Actions and Bugs: A Differentiated Replication</a></td>
 <td>Railana</td>
 </tr>
 <tr>
-<td>27/08</td>
+<td>03/09</td>
 <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121219301487" target="_blank" rel="noopener noreferrer">Scented since the beginning: On the diffuseness of test smells in automatically generated test code</a></td>
 <td>Anderson</td>
 </tr>
 <tr>
-<td>03/09</td>
+<td>10/09</td>
 <td><a href="https://arxiv.org/abs/2103.09388" target="_blank" rel="noopener noreferrer">On the Distribution of "Simple Stupid Bugs" in Unit Test Files: An Exploratory Study</a></td>
 <td>Luana</td>
 </tr>
 <tr>
-<td>10/09</td>
+<td>17/09</td>
 <td><a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85076474222&origin=inward&txGid=a2081ccb1aae4e027c80f8dcde439a40" target="_blank" rel="noopener noreferrer">Investigating Developer Perception on Test Smells Using Better Code Hub - Work in Progress </a></td>
 <td>JP</td>
 </tr>
 <tr>
-<td>17/09</td>
+<td>24/09</td>
 <td><a href="https://dl.acm.org/doi/10.1109/TSE.2007.70745" target="_blank" rel="noopener noreferrer">On the Detection of Test Smells: A Metrics-Based Approach for General Fixture and Eager Test</a></td>
 <td>Daniel</td>
-</tr>
-<tr>
-<td>24/09</td>
-<td><a href="https://dl.acm.org/doi/abs/10.1145/3422392.3422483" target="_blank" rel="noopener noreferrer">Testing Education: A Survey on a Global Scale</a></td>
-<td>Vinícius</td>
 </tr>
 <tr>
 <td>01/10</td>
@@ -180,51 +179,56 @@
 <td></td>
 </tr>
 <tr>
- <tr>
+<tr>
 <td>08/10</td>
-<td><a href="https://ieeexplore.ieee.org/abstract/document/6405253?casa_token=pfBmU2ctC34AAAAA:Du01Yz7_7Spy3xQyG2yjbJtJf3JMwwQI4zCq6WbhFWsnFi51zzFlMspCH3dAgKvrYKJi0epH8Erb" target="_blank" rel="noopener noreferrer">An empirical analysis of the distribution of unit test smells and their impact on software maintenance</a></td>
-<td>Daniele</td>
+<td><a href="https://dl.acm.org/doi/abs/10.1145/3422392.3422483" target="_blank" rel="noopener noreferrer">Testing Education: A Survey on a Global Scale</a></td>
+<td>Vinícius</td>
 </tr>
+ <tr>
 </tr>
 <td>15/10</td>
 <td>Dia dos Professores</td>
 </tr>
-<tr>
 <td>22/10</td>
+<td><a href="https://ieeexplore.ieee.org/abstract/document/6405253?casa_token=pfBmU2ctC34AAAAA:Du01Yz7_7Spy3xQyG2yjbJtJf3JMwwQI4zCq6WbhFWsnFi51zzFlMspCH3dAgKvrYKJi0epH8Erb" target="_blank" rel="noopener noreferrer">An empirical analysis of the distribution of unit test smells and their impact on software maintenance</a></td>
+<td>Daniele</td>
+</tr>
+<tr>
+<td>29/10</td>
 <td><a href="https://www.semanticscholar.org/paper/Refactoring-test-code-Deursen-Moonen/a5b1308b13dd393176494e6ccd078533f943ce48?p2df" target="_blank" rel="noopener noreferrer">Refactoring test code</a></td>
 <td>Dhennya</td>
 </tr>
 <tr>
-<td>29/10</td>
+<td>05/11</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/4299925?casa_token=NQ-vKVK67QkAAAAA:tlwtTU9VfxZ4dwbhWtzS5oIGFxtrqTpeb01v7cSrzVnV9uI0VxJi2zymLB_we91nr6qGOT7vzpYJ" target="_blank" rel="noopener noreferrer">Refactoring Test Code Safely</a></td>
 <td>Larissa</td>
 </tr>
 <tr>
-<td>05/11</td>
+<td>12/11</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/7810699?casa_token=L8rU_7ChYqEAAAAA:mVBDAzqwtlxUicbDa7HwDTeOvVnU--Td7Fk1DHny96d51G41E0Mzl8cG6vNE8ZXyGIEunNW3fNO5" target="_blank" rel="noopener noreferrer">On the diffusion of test smells in automatically generated test code: An empirical study</a></td>
 <td>Daniela</td>
 </tr>
 <tr>
-<td>12/11</td>
+<td>19/11</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/6569744?casa_token=CRtDK9hFgdYAAAAA:xcFz0Hp-G5_ooU9rTV10xjx5M1Vmb44UGrpV47kpFL57Nl7zf0vWrpK2Ow-gXyN1yQiya5YOQAgK" target="_blank" rel="noopener noreferrer">Automated Detection of Test Fixture Strategies and Smells</a></td>
 <td>Heitor</td>
 </tr>
 <tr>
-<td>19/11</td>
+<td>26/11</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/8501942?casa_token=jWvJ00hVZ9oAAAAA:56WSoZ5a8W6jI2PtH81XnxG-v43xVfayEVBs4YsdcoJMiBODetVfrssx4GKKzeFYOyWD_Rg6dpT8" target="_blank" rel="noopener noreferrer">What We Know About Smells in Software Test Code</a></td>
 <td>Nailton</td>
 </tr>
 <tr>
-<td>26/11</td>
+<td>03/12</td>
 <td><a href="https://dl.acm.org/doi/abs/10.1145/3368089.3417921" target="_blank" rel="noopener noreferrer">tsDetect: an open source test smells detection tool</a></td>
 <td>Adriana</td>
 </tr>
 <tr>
-<td>03/12</td>
+<td>10/12</td>
 <td><a href="https://dl.acm.org/doi/abs/10.1145/3379597.3387471" target="_blank" rel="noopener noreferrer">Did You Remember To Test Your Tokens?</a></td>
 <td>Railana</td>
 </tr>
-<td>10/12</td>
+<td>17/12</td>
 <td><a href="https://dl.acm.org/doi/10.5555/3370272.3370293" target="_blank" rel="noopener noreferrer">On the Distribution of Test Smells in Open Source Android Applications: An Exploratory Study</a></td>
 <td>Anderson</td>
 </tr>
