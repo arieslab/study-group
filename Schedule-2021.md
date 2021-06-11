@@ -185,46 +185,38 @@
 <td><a href="https://ieeexplore.ieee.org/abstract/document/6405253?casa_token=pfBmU2ctC34AAAAA:Du01Yz7_7Spy3xQyG2yjbJtJf3JMwwQI4zCq6WbhFWsnFi51zzFlMspCH3dAgKvrYKJi0epH8Erb" target="_blank" rel="noopener noreferrer">An empirical analysis of the distribution of unit test smells and their impact on software maintenance</a></td>
 <td>Daniele</td>
 </tr>
-  
 </tr>
 <td>15/10</td>
 <td>Dia dos Professores</td>
 </tr>
 <tr>
-
 <td>22/10</td>
 <td><a href="https://www.semanticscholar.org/paper/Refactoring-test-code-Deursen-Moonen/a5b1308b13dd393176494e6ccd078533f943ce48?p2df" target="_blank" rel="noopener noreferrer">Refactoring test code</a></td>
 <td>Dhennya</td>
-  
 <td>29/10</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/4299925?casa_token=NQ-vKVK67QkAAAAA:tlwtTU9VfxZ4dwbhWtzS5oIGFxtrqTpeb01v7cSrzVnV9uI0VxJi2zymLB_we91nr6qGOT7vzpYJ" target="_blank" rel="noopener noreferrer">Refactoring Test Code Safely</a></td>
 <td>Larissa</td>
 </tr>
-
 <tr>
 <td>05/11</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/7810699?casa_token=L8rU_7ChYqEAAAAA:mVBDAzqwtlxUicbDa7HwDTeOvVnU--Td7Fk1DHny96d51G41E0Mzl8cG6vNE8ZXyGIEunNW3fNO5" target="_blank" rel="noopener noreferrer">On the diffusion of test smells in automatically generated test code: An empirical study</a></td>
 <td>Daniela</td>
 </tr>
-
 <tr>
 <td>12/11</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/6569744?casa_token=CRtDK9hFgdYAAAAA:xcFz0Hp-G5_ooU9rTV10xjx5M1Vmb44UGrpV47kpFL57Nl7zf0vWrpK2Ow-gXyN1yQiya5YOQAgK" target="_blank" rel="noopener noreferrer">Automated Detection of Test Fixture Strategies and Smells</a></td>
 <td>Heitor</td>
 </tr>
-
 <tr>
 <td>19/11</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/8501942?casa_token=jWvJ00hVZ9oAAAAA:56WSoZ5a8W6jI2PtH81XnxG-v43xVfayEVBs4YsdcoJMiBODetVfrssx4GKKzeFYOyWD_Rg6dpT8" target="_blank" rel="noopener noreferrer">What We Know About Smells in Software Test Code</a></td>
 <td>Nailton</td>
 </tr>
-
 <tr>
 <td>26/11</td>
 <td><a href="https://dl.acm.org/doi/abs/10.1145/3368089.3417921" target="_blank" rel="noopener noreferrer">tsDetect: an open source test smells detection tool</a></td>
 <td>Adriana</td>
 </tr>
-
 <tr>
 <td>03/12</td>
 <td><a href="https://dl.acm.org/doi/abs/10.1145/3379597.3387471" target="_blank" rel="noopener noreferrer">Did You Remember To Test Your Tokens?</a></td>
@@ -234,5 +226,4 @@
 <td><a href="https://dl.acm.org/doi/10.5555/3370272.3370293" target="_blank" rel="noopener noreferrer">On the Distribution of Test Smells in Open Source Android Applications: An Exploratory Study</a></td>
 <td>Anderson</td>
 </tr>
-
 </tbody></table>
