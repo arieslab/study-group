@@ -121,7 +121,7 @@
 <tr>
 <td>16/07</td>
 <td><a href="" target="_blank" rel="noopener noreferrer">Understanding and Facilitating the Co-Evolution of Production and Test Code</a></td>
-<td>Dhennya</td>
+<td>Daniela</td>
 </tr>
 <tr>
 <td>23/07</td>
@@ -131,7 +131,7 @@
 <tr>
 <td>30/07</td>
 <td><a href="http://mir.cs.illinois.edu/~qluo2/fse14LuoHEM.pdf" target="_blank" rel="noopener noreferrer">An Empirical Analysis of UI-based Flaky Tests</a></td>
-<td>Daniela</td>
+<td>Dhennya</td>
 </tr>
 <tr>
 <td>06/08</td>
