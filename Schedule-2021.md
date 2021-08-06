@@ -100,10 +100,13 @@
 <td><a href="https://sback.it/publications/icsme2018a.pdf" target="_blank" rel="noopener noreferrer">On The Relation of Test Smells to Software Code Quality</a></td>
 <td>Luana</td>
 </tr>
+
 <tr>
 <td>18/06</td>
 <td>Workshop ARIES LAB</a></td>
+<td>--</a></td>
 </tr>
+
 <tr>
 <td>25/06</td>
 <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060 " target="_blank" rel="noopener noreferrer">Smells in software test code: A survey of knowledge in industry and academia</a></td>
@@ -189,11 +192,14 @@
 <td><a href="https://dl.acm.org/doi/10.1109/TSE.2007.70745" target="_blank" rel="noopener noreferrer">On the Detection of Test Smells: A Metrics-Based Approach for General Fixture and Eager Test</a></td>
 <td>Daniele</td>
 </tr>
-</tr>
+
+<tr>
 <td>15/10</td>
-<td>Dia dos Professores</td>
+<td>Dia dos Professores</td>  
+<td>--</td>
 </tr>
-</tr>
+
+<tr>
 <td>22/10</td>
 <td><a href="https://dl.acm.org/doi/abs/10.1145/3422392.3422483" target="_blank" rel="noopener noreferrer">Testing Education: A Survey on a Global Scale</a></td>
 <td>Dhennya</td>
