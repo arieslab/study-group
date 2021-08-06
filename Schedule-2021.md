@@ -284,13 +284,13 @@
 </tr>
 
 <tr>
-<td>24/12</td>
+<td>--</td>
 <td><a href="https://dl.acm.org/doi/abs/10.1145/3379597.3387471" target="_blank" rel="noopener noreferrer">Did You Remember To Test Your Tokens?</a></td>
 <td>JP</td>
 </tr>
 
 <tr>
-<td>07/01</td>
+<td>--</td>
 <td><a href="https://dl.acm.org/doi/10.5555/3370272.3370293" target="_blank" rel="noopener noreferrer">On the Distribution of Test Smells in Open Source Android Applications: An Exploratory Study</a></td>
 <td>Daniel</td>
 </tr>
