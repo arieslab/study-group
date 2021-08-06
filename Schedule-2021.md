@@ -187,28 +187,35 @@
 </tr>
 
 <tr>
-<td>20/08</td>
+<td>03/09</td>
 <td><a href="https://dl.acm.org/doi/10.1145/3387904.3389296" target="_blank" rel="noopener noreferrer">Just-In-Time Test Smell Detection and Refactoring: The DARTS Project</a></td>
 <td>Railana</td>
 </tr>
 
 <tr>
-<td>03/09</td>
+<td>10/09</td>
 <td><a href="https://arxiv.org/abs/2009.11685" target="_blank" rel="noopener noreferrer">On the Relationship between Refactoring Actions and Bugs: A Differentiated Replication</a></td>
 <td>Luana</td>
 </tr>
 
 <tr>
-<td>10/09</td>
+<td>17/09</td>
 <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121219301487" target="_blank" rel="noopener noreferrer">Scented since the beginning: On the diffuseness of test smells in automatically generated test code</a></td>
 <td>JP</td>
 </tr>
 
 <tr>
-<td>17/09</td>
+<td>24/09</td>
 <td><a href="https://arxiv.org/abs/2103.09388" target="_blank" rel="noopener noreferrer">On the Distribution of "Simple Stupid Bugs" in Unit Test Files: An Exploratory Study</a></td>
 <td>Daniel</td>
 </tr>
+
+<tr>
+<td>01/10</td>
+<td>CBSOFT</td>
+<td>--</td>
+</tr>
+
 
 <tr>
 <td>24/09</td>
@@ -216,12 +223,6 @@
 <td>Vinícius</td>
 </tr>
 
-
-<tr>
-<td>01/10</td>
-<td>CBSOFT</td>
-<td></td>
-</tr>
 
 <tr>
 <td>08/10</td>
