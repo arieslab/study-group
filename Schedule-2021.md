@@ -128,19 +128,26 @@
 <td> The Secret Life of Test Smells - An Empirical Study on Test Smell Evolution and Maintenance</a></td>
 <td>Dhennya</td>
 </tr>
+
 <tr>
+<td>06/08</td>
+<td><a href="https://arxiv.org/abs/2005.13474" target="_blank" rel="noopener noreferrer">Toward a catalog of software quality metrics for infrastructure code</a></td>
+<td>Anderson</td>
+</tr>
+
 <tr>
-<td>30/07</td>
+<td>13/08</td>
 <td><a href="https://www.researchgate.net/publication/348187542_On_the_Impact_of_Flaky_Tests_in_Automated_Program_Repair" target="_blank" rel="noopener noreferrer">On the Impact of Flaky Tests in Automated Program Repair</a></td>
 <td>Heitor</td>
 </tr>
+
 <tr>
-<td>06/08</td>
+<td>20/08</td>
 <td><a href="http://mir.cs.illinois.edu/~qluo2/fse14LuoHEM.pdf" target="_blank" rel="noopener noreferrer">An Empirical Analysis of UI-based Flaky Tests</a></td>
 <td>Nailton</td>
 </tr>
 <tr>
-<td>13/08</td>
+<td>27/08</td>
 <td><a href="https://ieeexplore.ieee.org/abstract/document/9054798?casa_token=HA4D3J-cS_0AAAAA:EvDVsh9UcA781_cuSALa9k7T45bBpS0OXhcyftfoy-TvmjDSy5Icleq7zOv25sXT00Lz4L4IzcHr" target="_blank" rel="noopener noreferrer">Clone Detection in Test Code: An Empirical Evaluation</a></td>
 <td>Adriana</td>
 </tr>
@@ -149,11 +156,7 @@
 <td><a href="https://dl.acm.org/doi/10.1145/3387904.3389296" target="_blank" rel="noopener noreferrer">Just-In-Time Test Smell Detection and Refactoring: The DARTS Project</a></td>
 <td>Railana</td>
 </tr>
-<tr>
-<td>27/08</td>
-<td><a href="https://arxiv.org/abs/2005.13474" target="_blank" rel="noopener noreferrer">Toward a catalog of software quality metrics for infrastructure code</a></td>
-<td>Anderson</td>
-</tr>
+
 <tr>
 <td>03/09</td>
 <td><a href="https://arxiv.org/abs/2009.11685" target="_blank" rel="noopener noreferrer">On the Relationship between Refactoring Actions and Bugs: A Differentiated Replication</a></td>
