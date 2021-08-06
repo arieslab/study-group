@@ -163,6 +163,12 @@
 </tr>
 
 <tr>
+<td>30/07</td>
+<td>--</td>
+<td>--</td>
+</tr>
+
+<tr>
 <td>06/08</td>
 <td><a href="https://arxiv.org/abs/2005.13474" target="_blank" rel="noopener noreferrer">Toward a catalog of software quality metrics for infrastructure code</a></td>
 <td>Anderson</td>
